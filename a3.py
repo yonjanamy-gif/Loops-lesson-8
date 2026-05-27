@@ -1,6 +1,7 @@
-number = int(input("Enter Number to Check: "))
-print("Number to be Checked: ", number)
-if number%2==0 :
-    print("This is an Even Number")
-else:
-    print("This is an Odd Number")
+string = input("Please enter your own String :")
+string2 = (' ')
+
+for i in string:
+ string2 = i + stinhg2 
+ print("\nThe Original String =", string)
+ print("The Reversed String =", string)
